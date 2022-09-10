@@ -8,6 +8,7 @@
 .card div,img{
     max-width: 1200px;
     padding: 10px;
+    
     display: block;
 }
 .post-grid{
@@ -15,6 +16,10 @@
     padding-right: 10px;
 }
 .sidebar-grid{
+    justify-content: space-between;
     padding-left: 10px;
     padding-right: 10px;
+}
+.img-c{
+    border-radius: 10px;
 }
