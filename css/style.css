@@ -1,0 +1,16 @@
+
+.card-content {
+    display: flex;
+    padding: 10px 30px;
+    justify-content: space-between;
+    /* align-items: flex-end; */
+}
+.card div,img{
+    max-width: 1200px;
+    padding: 10px;
+    display: block;
+}
+.post-grid{
+    padding-left: 10px;
+    padding-right: 10px;
+}
